@@ -18,6 +18,7 @@ fn main() {
     println!("{:?} {:?}", first, last);
     println!("{} {}", first, last);
 }
+// test
 
 fn first_name() {
     println!("Sojin");
